@@ -2,7 +2,7 @@
 
 **Decentralized compute and modular fault containment as an alternative to monolithic shared-parameter architectures.**
 
-Working paper by Daysun Simeon — Celos Labs. Software-only evidence, not yet peer reviewed. No patents filed.
+Working paper by Daysun Simeon — Celos Labs. Software-only evidence.
 
 ## The idea
 
