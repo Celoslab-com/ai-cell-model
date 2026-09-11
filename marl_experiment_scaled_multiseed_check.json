@@ -1,0 +1,77 @@
+[
+  {
+    "seed": 7,
+    "mono_baseline": 1,
+    "mod_baseline": 0.9983333333333333,
+    "severities": {
+      "0.25": {
+        "mono_post": 0.8017708333333333,
+        "mod_post": 0.9940625,
+        "mod_corrupted_instance": 0.805,
+        "mod_other_mean": 0.9980851063829788
+      },
+      "0.5": {
+        "mono_post": 0.4298958333333333,
+        "mod_post": 0.9847916666666666,
+        "mod_corrupted_instance": 0.325,
+        "mod_other_mean": 0.9988297872340426
+      },
+      "0.75": {
+        "mono_post": 0.08166666666666667,
+        "mod_post": 0.9816666666666667,
+        "mod_corrupted_instance": 0.155,
+        "mod_other_mean": 0.9992553191489362
+      }
+    }
+  },
+  {
+    "seed": 17,
+    "mono_baseline": 1,
+    "mod_baseline": 0.998125,
+    "severities": {
+      "0.25": {
+        "mono_post": 0.7948958333333334,
+        "mod_post": 0.9944791666666667,
+        "mod_corrupted_instance": 0.825,
+        "mod_other_mean": 0.9980851063829788
+      },
+      "0.5": {
+        "mono_post": 0.24197916666666666,
+        "mod_post": 0.9878125,
+        "mod_corrupted_instance": 0.475,
+        "mod_other_mean": 0.9987234042553191
+      },
+      "0.75": {
+        "mono_post": 0.09020833333333333,
+        "mod_post": 0.9785416666666666,
+        "mod_corrupted_instance": 0.09,
+        "mod_other_mean": 0.9974468085106383
+      }
+    }
+  },
+  {
+    "seed": 29,
+    "mono_baseline": 1,
+    "mod_baseline": 0.9976041666666666,
+    "severities": {
+      "0.25": {
+        "mono_post": 0.8376041666666666,
+        "mod_post": 0.9939583333333333,
+        "mod_corrupted_instance": 0.82,
+        "mod_other_mean": 0.9976595744680851
+      },
+      "0.5": {
+        "mono_post": 0.36854166666666666,
+        "mod_post": 0.9832291666666667,
+        "mod_corrupted_instance": 0.29,
+        "mod_other_mean": 0.9979787234042553
+      },
+      "0.75": {
+        "mono_post": 0.10541666666666667,
+        "mod_post": 0.9785416666666666,
+        "mod_corrupted_instance": 0.115,
+        "mod_other_mean": 0.9969148936170212
+      }
+    }
+  }
+]
