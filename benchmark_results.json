@@ -1,0 +1,35 @@
+[
+  {
+    "grid": "4x4",
+    "trials": 184,
+    "fabric_latency_us_mean": 4.706336956478876,
+    "fabric_latency_us_median": 3.8534999990957886,
+    "bus_latency_us_mean": 0.587146739228217,
+    "bus_latency_us_median": 0.5119999997305058,
+    "fabric_mean_hops": 2.5652173913043477,
+    "fabric_mean_active_fraction": 0.22282608695652173,
+    "bus_mean_active_fraction": 1.0
+  },
+  {
+    "grid": "8x8",
+    "trials": 198,
+    "fabric_latency_us_mean": 14.560141414321492,
+    "fabric_latency_us_median": 13.124000002306957,
+    "bus_latency_us_mean": 0.8044494948696487,
+    "bus_latency_us_median": 0.5645000005216616,
+    "fabric_mean_hops": 4.924242424242424,
+    "fabric_mean_active_fraction": 0.09256628787878787,
+    "bus_mean_active_fraction": 1.0
+  },
+  {
+    "grid": "16x16",
+    "trials": 200,
+    "fabric_latency_us_mean": 61.64275499992655,
+    "fabric_latency_us_median": 55.40149999916366,
+    "bus_latency_us_mean": 1.1403600001713698,
+    "bus_latency_us_median": 0.7745000001335711,
+    "fabric_mean_hops": 9.85,
+    "fabric_mean_active_fraction": 0.0423828125,
+    "bus_mean_active_fraction": 1.0
+  }
+]
