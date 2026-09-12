@@ -1,0 +1,33 @@
+Copyright (c) 2026 Daysun Simeon / Celos Labs. All rights reserved.
+
+This repository (including all source code, benchmark scripts, experiment
+results, and the accompanying whitepaper "The AI Cell Model: Decentralized
+Compute and Modular Fault Containment as an Alternative to Monolithic
+Shared-Parameter Architectures") is made publicly viewable for evaluation,
+review, and verification purposes only.
+
+No permission is granted to:
+  - copy, reproduce, or redistribute this repository or any part of it;
+  - create derivative works based on this repository;
+  - use this code, these results, or this whitepaper for commercial purposes;
+  - claim authorship or ownership of any part of this work;
+
+without the express prior written permission of the copyright holder.
+
+You may view, read, and run this code locally for the sole purpose of
+verifying the claims made in the accompanying whitepaper and README. Any
+other use requires a separate written license from Daysun Simeon / Celos
+Labs.
+
+No patents have been filed on the ideas described in this repository as of
+the date above. This notice does not constitute a grant of any patent
+rights, express or implied.
+
+This software and accompanying materials are provided "as is," without
+warranty of any kind, express or implied, including but not limited to the
+warranties of merchantability, fitness for a particular purpose, and
+noninfringement. In no event shall the copyright holder be liable for any
+claim, damages, or other liability arising from the use of this work.
+
+For licensing inquiries, collaboration, or permission requests, contact:
+Celos Labs — celoslab.com
