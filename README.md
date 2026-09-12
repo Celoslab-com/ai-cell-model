@@ -143,5 +143,7 @@ Software-first, early stage. Roadmap: whitepaper (in progress) and v0.1 emulator
 
 ## Contact
 
-Daysun Simeon — Celos Labs — [celoslab.com](https://celoslab.com)
+Daysun Simeon — Celos Labs — [daysun@celoslab.com](daysun@celoslab.com)
+
+[celoslab.com](https://celoslab.com)
 
