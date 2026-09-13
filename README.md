@@ -27,11 +27,11 @@ Intended reading order for a technical reviewer — implementation → benchmark
 | [`marl_experiment_scaled_results.json`](./marl_experiment_scaled_results.json) | Raw output of `marl_experiment_scaled.py` (seed 7) |
 | [`cellos-emulator-v0.1-1.zip`](./cellos-emulator-v0.1-1.zip) | Complete original v0.1 package — the code above, bundled |
 | [`celos-ai-cell-whitepaper.md`](./celos-ai-cell-whitepaper.md) / [`.PDF`](./celos-ai-cell-whitepaper.PDF) | Full paper: problem framing, related work, exact hyperparameters/seeds, honest caveats |
-[ai_learning.rs](experiments/rust/ai_learning.rs)
-[chaos_monkey.rs](experiments/rust/chaos_monkey.rs)
-[scaling.rs](experiments/rust/scaling.rs)
-[targeted_failure.rs](experiments/rust/targeted_failure.rs)
-[online_adaptation.rs](experiments/rust/online_adaptation.rs)
+| ""ai_learning.rs"" (experiments/rust/ai_learning.rs) | Rust AI-cell learning experiment: local Q-learning over decentralized cells |
+| ""chaos_monkey.rs"" (experiments/rust/chaos_monkey.rs) | Rust resilience experiment: random cell failures and continued routing |
+| ""scaling.rs"" (experiments/rust/scaling.rs) | Rust scaling experiment: routing performance as the cell grid grows |
+| ""targeted_failure.rs"" (experiments/rust/targeted_failure.rs) | Rust targeted-failure experiment: concentrated cell failures and rerouting |
+| ""online_adaptation.rs"" (experiments/rust/online_adaptation.rs) | Rust Experiment 5: online adaptation to previously unseen failure conditions |
 
 
 **All experiments are directly browsable and runnable from the repo root — no download or extraction required.** The ZIP remains available as a complete, self-contained snapshot of the v0.1 package.
